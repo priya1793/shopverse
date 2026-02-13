@@ -21,7 +21,7 @@ A feature-rich, production-ready e-commerce web application built with **React**
 |                     | ![Checkout Flow Step 4](public/images/checkout-flow4.png) |
 | **Wishlist**        | ![Wishlist](public/images/wishlist.png)                   |                    |
 | **Order History**   | ![Order History](public/images/order-history.png)         |                    |
-| **Signup**          | ![Signup](public/images/signup.png)                       |                    |
+| **Signup**          | ![Signup](public/images/Signup.png)                       |                    |
 
 ---
 
@@ -110,8 +110,8 @@ enableRetryLogic | enableOrderHistory;
 
 ```bash
 # Clone the repository
-git clone <YOUR_GIT_URL>
-cd <YOUR_PROJECT_NAME>
+git clone https://github.com/priya1793/shopverse.git
+cd shopverse
 
 # Install dependencies
 npm install
